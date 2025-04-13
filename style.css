@@ -1,0 +1,7 @@
+.hero_section img {
+  height: 70vh;
+}
+
+@media screen and (max-width: 700px) {
+  .row_container;
+}
